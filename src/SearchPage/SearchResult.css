@@ -20,7 +20,7 @@
 
 .searchResult__info {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   justify-content: space-between;
   padding-left: 20px;
 }
