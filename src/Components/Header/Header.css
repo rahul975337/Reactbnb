@@ -36,5 +36,5 @@
   margin-right: 80px;
 }
 .header__right__item {
-  padding-right: 10px;
+  padding-right: 10px !important;
 }
